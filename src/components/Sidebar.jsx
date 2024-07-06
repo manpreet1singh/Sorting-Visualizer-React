@@ -83,7 +83,7 @@ export default function Sidebar(props) {
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://github.com/shubham-mehta26"
+                    href="https://github.com/manpreet1singh"
                   >
                     <i undefined="true" className="bx bxl-github"></i>
                   </a>
@@ -92,7 +92,7 @@ export default function Sidebar(props) {
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://www.instagram.com/shubham_mehta26/"
+                    href="https://www.instagram.com/manpreet_.makkar/"
                   >
                     <i undefined="true" className="bx bxl-instagram"></i>
                   </a>
@@ -101,7 +101,7 @@ export default function Sidebar(props) {
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://twitter.com/shubham_mehta26"
+                    href="https://x.com/Freestylerms09"
                   >
                     <i undefined="true" className="bx bxl-twitter" ></i>
                   </a>

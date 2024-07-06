@@ -176,7 +176,7 @@ export default function HomePage() {
         </div>
       </div>
       <div className="page-3 page">
-        ~ Shubham Mehta 
+        ~ Manpreet Singh 
       </div>
     </div>
   );

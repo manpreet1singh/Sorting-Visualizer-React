@@ -29,7 +29,7 @@ Here are some screenshots of the Sorting Visualizer in action:
 
 ## Usage
 
-1. Open the Sorting Visualizer using the provided link: [https://sorting-visualizer26.netlify.app/](https://sorting-visualizer26.netlify.app/)
+1. Open the Sorting Visualizer using the provided link: [https://sorting-visualizer-manpreet.netlify.app/](https://sorting-visualizer-manpreet.netlify.app/)
 
 2. Choose a sorting algorithm from the options available on the sidebar.
 

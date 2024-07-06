@@ -2,7 +2,7 @@
 
 This is a web application built using **React** that allows you to visualize various sorting algorithms in action. You can observe how different algorithms manipulate and rearrange elements in real time, providing a visual representation of the sorting process.
 
-The Sorting Visualizer is accessible through the following link: [https://sorting-visualizer26.netlify.app/](https://sorting-visualizer26.netlify.app/)
+The Sorting Visualizer is accessible through the following link: [https://sorting-visualizer-manpreet.netlify.app/](https://sorting-visualizer-manpreet.netlify.app/)
 
 ## Features
 
